@@ -27,7 +27,6 @@ const Ninjas = ({ members }) => {
                     </Ninja>
                 </Link>
             ))}
-
         </Section>
     )
 }

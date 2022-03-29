@@ -12,7 +12,6 @@ export const getStaticPaths = async () => {
             params: { id: member.id.toString() }
         }
     })
-
     return {
         paths,
         fallback: false

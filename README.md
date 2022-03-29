@@ -1,8 +1,10 @@
-## Background
+### Background
 I wanted to make an app that fetches data from an API and that uses dynamic routing and Static Site Generation (SSG) - as simple as possible.
 
-## Getting Started
+### API
+For the data I am using dummy data from *jsonplaceholder.typicode.com/*
 
+### Getting Started
 First, run the development server:
 
 ```bash
