@@ -8,6 +8,9 @@ For the data I am using dummy data from *jsonplaceholder.typicode.com/*
 ![Next JS](https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000)
 ![Styled Cmoponents](https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093)
 
+### Live Version
+(https://next-js-basic-routing-and-datafetching.vercel.app/).
+
 ### Getting Started
 First, run the development server:
 

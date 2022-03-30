@@ -9,6 +9,7 @@ const index = () => {
             <Nav>
                 <Link href="/">
                     <Image
+                        className="logo"
                         src="/logo.png"
                         height={40}
                         width={40}

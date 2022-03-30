@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>List</title>
+        <title>Simple Routing</title>
         <meta name="description" content="Basic Routing" />
         <link rel="icon" href="/logo.png" />
       </Head>
